@@ -1,0 +1,89 @@
+#Task 1
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="mk">
+
+    <head>
+        <meta charset="UTF-8">
+        <title> Прва лабораториска вежба по Основи на Веб Дизајн </title>
+    </head>
+
+    <body>
+        <h1>
+            Веб Дизајн
+        </h1>
+
+        <span>Овој текст е составен од </span><b>здебелени </b>
+        <em>закосени </em><u> и подвлечени</u> <span> букви.</span>
+        <br />
+        <hr />
+    </body>
+
+</html>
+
+
+#Task 2
+
+<!DOCTYPE html>
+
+<html lang="mk">
+    <head>
+        <meta charset="UTF-8">
+        <title> Lab1.2. encoding</title>
+    </head>
+
+    <body>
+        <h1>
+            Главен наслов на страната
+        </h1>
+
+        <span>Овој текст се употребува за пронаоѓање на <em><b> грешките </b></em> во <u>кодот.</u></span>
+        <br>
+        <br />
+    </body>
+
+</html>
+
+
+#Task 3
+
+--->First Page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>First page for the task 3</title>
+    <meta name="keywords" content="Web Design, FCSE, 2011, HTML, CSS" />
+    <meta name="description" content="This is a test page">
+    <meta http-equiv="refresh" content="5; url = http://localhost:63343/Lab1/secondPage.html?_ijt=r4vna76khljhft8l37k8epkce5" />
+</head>
+
+<body>
+    <p> In 5 seconds you will be redirected to the next page! </p>
+</body>
+</html>
+
+--->Second Page
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Second page for task 3</title>
+    <meta name="keywords" content="final page, HTML, second page" />
+    <meta name="description" content="This is a second test page">
+</head>
+
+<body>
+    <h1>Welcome to the second page.</h1>
+    <p>Hi there! This is Stefani Vuksanova from Pehčevo,<br>
+        a 1st year software engineering student at FINKI.   :)
+    </p>
+    <p>index: ******<br>
+       group: SIIS 1
+    </p>
+</body>
+
+</html>
